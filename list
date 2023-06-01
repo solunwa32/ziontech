@@ -3,3 +3,49 @@ sunday
 mercy
 jayden
 anthonia
+shedrack
+2ND ASSIGNMENT
+   31  whoami
+   32  git help config
+   33  clear
+   34  touch list
+   35  cat list
+   36  vi list
+   37  cat liat
+   38  cat list
+   39  mkdir ziontech
+   40  cd ziontech/
+   41  cat
+   42  cat list
+   43  mv list list1
+   44  vi list
+   45  vi list
+   46  cat list
+   47  git config --user.name "sunday olunwa"
+   48  git config --global user.name "sunday olunwa"
+   49  git config --global user.email "olunwasundayc@gmail.com"
+   50  git config --global init.default branch main
+   51  git init
+   52  git status
+   53  git add list
+   54  git status
+   55  git rm --cached <list>
+   56  ls
+   57  git add list
+   58  status
+   59  git status
+   60  git commit -m "first commit"
+   61  vi list
+   62  git status
+   63  git diff
+   64  git add list
+   65  git status
+   66  git status
+   67  git log
+   68  git log -p
+   69  git remote add origin https://github.com/solunwa32/ziontech.git
+   70  git branch -M main
+   71  git push -u origin main
+   72  git stauts
+   73  git status
+   74  history
